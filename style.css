@@ -1,0 +1,60 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+.main{
+    height: 100vh;
+    background-image: url("/image/mark-cruz-VW2oU66mwbc-unsplash.jpg");
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center;
+    background-color: rgba(0,0,0,0.6);
+    background-blend-mode: multiply;
+
+}
+/* .main_1{
+    height: 60px;
+    color: white;
+} */
+.main_1{
+    background-color: rgba(0, 0,0, 0.9);
+}
+ .main_1 span i{
+    font-size: 150%;
+ }
+ .main_2{
+    height: 91vh;
+ }
+ .main_2 .row{
+    height: 100%;
+ }
+ .main_2 .row strong{
+    width: fit-content;
+    display:block !important;
+    /* font-family: "Macond", serif; */
+    
+    /* background-color: blueviolet; */
+ }
+ .main_2 .profile{
+      font-weight: 400 !important;
+ }
+
+ .name{
+   /* font-size: 4vw !important; */
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   font-family: "Macond", serif;
+
+}
+
+/*------------------ second page------------------------- */
+
+/* .second .one{
+   width: 30px;
+   height: 30px;
+   background-color: brown;
+} */
+ .second .m{
+   display: flex !important;
+ }
